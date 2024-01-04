@@ -6,4 +6,8 @@ With React + Vite &amp; Firebase and Chat Engine
 ## Chat App
 ![Messsenger](messenger%20.png)
 
+#### Ressources :
+ - https://developers.facebook.com/ .
+ - https://firebase.google.com/ .
+ - https://chatengine.io/ .
 
