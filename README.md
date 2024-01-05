@@ -1,4 +1,4 @@
-# Messanger Chat Messenger
+# Messanger Chat Application
 With React + Vite &amp; Firebase and Chat Engine
 ## Live Demo : 
 ## Google and Facebook Authentification 
